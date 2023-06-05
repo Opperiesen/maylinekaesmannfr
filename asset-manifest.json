@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/maylinekaesmannfr/static/css/main.073c9b0a.css",
-    "main.js": "/maylinekaesmannfr/static/js/main.222913d7.js",
+    "main.js": "/maylinekaesmannfr/static/js/main.501f2bef.js",
     "static/js/787.d97240b6.chunk.js": "/maylinekaesmannfr/static/js/787.d97240b6.chunk.js",
     "static/media/logo.svg": "/maylinekaesmannfr/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/maylinekaesmannfr/index.html",
     "main.073c9b0a.css.map": "/maylinekaesmannfr/static/css/main.073c9b0a.css.map",
-    "main.222913d7.js.map": "/maylinekaesmannfr/static/js/main.222913d7.js.map",
+    "main.501f2bef.js.map": "/maylinekaesmannfr/static/js/main.501f2bef.js.map",
     "787.d97240b6.chunk.js.map": "/maylinekaesmannfr/static/js/787.d97240b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.222913d7.js"
+    "static/js/main.501f2bef.js"
   ]
 }
